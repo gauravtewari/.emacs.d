@@ -1,0 +1,22 @@
+;; -*- emacs-lisp -*- <15/07/14 10:59:57 /home/gtewari/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["ssh" "gtewari" "svdcsvn1" nil nil]
+  ("uname" "Linux 2.6.18-164.el5")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("busybox" nil)
+  ("file-exists" "test -e")
+  ("stat" "\\stat")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 30101)
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("readlink" "\\readlink")
+  ("~" "/home/gtewari")
+  ("uid-integer" 52140)
+  ("ls" "/bin/ls --color=never")))
